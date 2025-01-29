@@ -98,3 +98,5 @@ The final result of the *P0* assignment should look similar to the image below:
     * Please read the specification carefully. If we tell you exactly what class name or id to give some elements, you must do that. 
     * Please remove excess files including console.logs before submitting programming assignments
     * Admin overhead penalties up to 20% for not following instructions
+
+Credit: Assignment adapted from UBC InfoVis course https://github.com/UBC-InfoVis/447-materials/blob/25Jan/programming-assignments/skeletons/p0/assignment.md
