@@ -1,2 +1,3 @@
-# vis-p0
-Programming Assignment P0
+# P0: Experiment Data
+
+Todo: Cite any external resources and explain exactly what modifications you have made.

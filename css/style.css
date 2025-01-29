@@ -1,0 +1,12 @@
+body {
+  padding: 30px;
+  font-family: sans-serif;
+}
+#vis {
+  border: solid 1px gray;
+}
+#footer {
+  padding-top: 30px;
+  font-size: small;
+}
+/* Todo: add styles; */
